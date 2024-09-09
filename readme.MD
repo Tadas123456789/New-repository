@@ -1,0 +1,2 @@
+# Mano informacine sistema
+sistema 
